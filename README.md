@@ -1,15 +1,12 @@
 <h1>Modelagem de Dados com Power BI</h1> 
-
-<h2>Desafio 4 - Criando tabelas e relacionamentos no formato Star Schema
+<h2>Desafio 4 - Criando tabelas e relacionamentos no formato Star Schema.
 <p></p>
-Objetivo:</h2>
-
-<p>Este projeto foi desenvolvido como parte do bootcamp NTT DATA Engenharia de Dados com Python, oferecido pela Digital Innovation One (DIO). O foco deste desafio é criar tabelas e realacionamentos utilizando a modelagem de dados no formato 'Satar Schema'.</p>
-
+Objetivo:</h2> 
+<p>Este projeto foi desenvolvido como parte do bootcamp NTT DATA Engenharia de Dados com Python, oferecido pela Digital Innovation One (DIO). O foco deste desafio é criar tabelas e relacionamentos utilizando a modelagem de dados no formato 'Star Schema'.</p>
 
 ## Primeira modelagem:
 
-<p>Criar tabela Universidade utilizando o site https://app.sqldbm.com, tendo a tabela professor como o centro da modelagem Star Schema</p>
+<p>Criar a tabela Universidade utilizando o site [https://app.sqldbm.com](https://app.sqldbm.com), tendo a tabela professor como o centro da modelagem Star Schema.</p>
 
 ### Diagrama principal:
 
@@ -25,7 +22,7 @@ Objetivo:</h2>
 
 ## Segunda modelagem:
 
-<p>Utilizando os dados do aequivo exel 'Financial', Tendo a tabela 'vendas' como o centro da modelagem Star Schema</p>
+<p>Utilizando os dados do arquivo Excel 'Financial', tendo a tabela 'vendas' como o centro da modelagem Star Schema.</p>
 
 ### Tabelas:
 
