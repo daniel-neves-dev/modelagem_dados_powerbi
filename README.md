@@ -1,7 +1,7 @@
 <h1>Modelagem de Dados com Power BI</h1> 
 <h2>Desafio 4 - Criando tabelas e relacionamentos no formato Star Schema.
-<p></p>
-Objetivo:</h2> 
+
+<h3>Objetivo:</h3> 
 <p>Este projeto foi desenvolvido como parte do bootcamp NTT DATA Engenharia de Dados com Python, oferecido pela Digital Innovation One (DIO). O foco deste desafio é criar tabelas e relacionamentos utilizando a modelagem de dados no formato 'Star Schema'.</p>
 
 ## Primeira modelagem:
